@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samti-chiheb&label=Profile%20views&color=0e75b6&style=flat" alt="samti-chiheb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samti-chiheb" alt="samti-chiheb" /></a> </p>
 
 - 🔭 I’m currently working on [ModeTry](https://github.com/samti-chiheb/modeTry_front)
 
