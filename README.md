@@ -2,23 +2,21 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on [ModeTry](https://github.com/samti-chiheb/modeTry_front)
-
-- 🌱 I’m currently learning **Java Spring boot**
+- 🔭 I’m currently working on [project manager](https://github.com/samti-chiheb/project-manager)
 
 - 👨‍💻 All of my projects are available at [https://samtichiheb.com](https://samtichiheb.com)
 
-- 💬 Ask me about **React and it's eco system**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **chiheb.samti@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chiheb-samti/](https://www.linkedin.com/in/chiheb-samti/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/samti-chiheb/](https://www.linkedin.com/in/samti-chiheb/)
 
 - ⚡ Fun fact **I ❤️ Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chiheb-samti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiheb-samti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samti-chiheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiheb-samti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
