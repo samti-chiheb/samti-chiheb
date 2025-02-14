@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🔭 I’m currently working on [project manager](https://github.com/samti-chiheb/project-manager)
+- 🔭 I’m currently working on [the_scraper](https://github.com/samti-chiheb/the_scraper)
 
-- 👨‍💻 All of my projects are available at [https://samtichiheb.com](https://samtichiheb.com)
+- 👨‍💻 All of my projects are available at [https://samtichiheb.com](https://samtichiheb.com/projects)
 
 - 💬 Ask me about **MERN Stack**
 
