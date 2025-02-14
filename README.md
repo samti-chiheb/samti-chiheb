@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm SAMTI Chiheb</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-
 - 🔭 I’m currently working on [the_scraper](https://github.com/samti-chiheb/the_scraper)
 
 - 👨‍💻 All of my projects are available at [https://samtichiheb.com](https://samtichiheb.com/projects)
-
-- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **chiheb.samti@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/samti-chiheb/](https://www.linkedin.com/in/samti-chiheb/)
 
 - ⚡ Fun fact **I ❤️ Learning**
+
+- 💬 Ask me about **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
